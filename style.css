@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -28,7 +29,6 @@
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
-
 }
 
 #selectField img{
